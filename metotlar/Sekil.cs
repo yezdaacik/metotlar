@@ -32,5 +32,11 @@ namespace metotlar
         {
             btn.Text = mesaj;
         }
+
+        public int alanHesapla()
+        {
+            int sonuc = this.kisaKenar * this.uzunKenar;
+            return sonuc;
+        }
     }
 }

@@ -28,6 +28,12 @@ namespace metotlar
 
             btnSekil.Width = Convert.ToInt32(txtSayi1.Text);
             btnSekil.Height = Convert.ToInt32(txtSayi2.Text);
+
+            int deger = sekil1.alanHesapla();
+
+            lblSonuc.Text = $"Uzun kenarı {sekil1.uzunKenar} ve kısa kenarı {sekil1.kisaKenar} olan şeklin alanı {deger} olur.";
+
+
         }
 
         private void btnRenk_Click(object sender, EventArgs e)
@@ -35,5 +41,7 @@ namespace metotlar
             colorDialog1.ShowDialog();
             renk = colorDialog1.Color;
         }
+
+       
     }
 }

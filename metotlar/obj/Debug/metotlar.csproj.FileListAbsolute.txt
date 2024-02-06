@@ -9,3 +9,14 @@ C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\metotlar\metotlar\obj\Debug\metotla
 C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\metotlar\metotlar\obj\Debug\metotlar.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\metotlar\metotlar\obj\Debug\metotlar.exe
 C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\metotlar\metotlar\obj\Debug\metotlar.pdb
+C:\Users\User\Downloads\metotlar-main\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\User\Downloads\metotlar-main\metotlar\bin\Debug\metotlar.exe
+C:\Users\User\Downloads\metotlar-main\metotlar\bin\Debug\metotlar.pdb
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.Form1.resources
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.Properties.Resources.resources
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.csproj.GenerateResource.cache
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.exe
+C:\Users\User\Downloads\metotlar-main\metotlar\obj\Debug\metotlar.pdb
